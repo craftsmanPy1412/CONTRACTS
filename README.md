@@ -64,6 +64,11 @@ To showcase trust-minimized transactions using conditional fund release.
 
 ---
 
+### 5. ERC20 Token Contract
+
+Implementation of an ERC‑20 compliant fungible token written in Solidity.
+The implementation is designed to be simple, secure, and easily extensible for production or educational use.
+
 ## Technologies Used
 
 * Solidity
